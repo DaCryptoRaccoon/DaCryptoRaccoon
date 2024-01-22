@@ -15,16 +15,18 @@ Welcome Coders and Raccoons!
 
 ## 🛠️ Languages & Tools
 
-- Python ![Python Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-- MySQL ![MySQL Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-- NumPy ![NumPy Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg)
-- Docker ![Docker Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)
-- VSCode ![VSCode Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg)
-- Node.js ![Node.js Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg)
-- React ![React Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
-- Solidity ![Solidity Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg)
-- Ubuntu ![Ubuntu Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg)
-- C ![C Logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+</p>
 
 ## 🔧 Projects & Contributions
 
@@ -38,7 +40,9 @@ Welcome Coders and Raccoons!
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaCryptoRaccoon&show_icons=true&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaCryptoRaccoon&show_icons=true&hide_border=true" alt="GitHub Stats"/>
+</p>
 
 ## 📫 Connect with Me
 
