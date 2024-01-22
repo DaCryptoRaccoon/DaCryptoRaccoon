@@ -30,10 +30,10 @@ Welcome Coders and Raccoons!
 
 Hey there, I'm Raccoon - the Blockchain Warrior from the OG years. I code faster than a raccoon chasing a trash truck and can find alpha in any market faster than Warren Buffett collecting his dividend payments.
 
-- 🔭 I’m currently working on trading tools
+- 🔭 I’m currently working on Trading tools
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on AI, Trading, Hedging, Arbitrage, Scalping.
-- 🤔 I’m looking for help with front-end development
+- 🤔 I’m looking for help with Front-end development
 - 💬 Ask me about Raccoon questions
 - 📫 How to reach me:
   - Twitter [![Twitter Badge](https://img.shields.io/twitter/follow/DaCryptoRaccoon?style=social)](https://twitter.com/DaCryptoRaccoon)
