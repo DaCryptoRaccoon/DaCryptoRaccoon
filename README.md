@@ -14,7 +14,7 @@ Hey there, I'm Raccoon - the Blockchain Warrior from the OG years. I code faster
   - Discord: [Join the Raccoon Den](https://discord.gg/9qVYajHsd2)
 - ⚡ Fun fact: Raccoons are highly intelligent and resourceful animals. They are known for their ability to solve problems and even remember the solutions for up to three years. Raccoons have excellent memories and can remember the solution to tasks they've encountered before, making them quite clever and adaptable creatures in the wild.
 
-## 🛠️ Languages & Tools
+## 🛠️ What Raccoon Can Use!
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
