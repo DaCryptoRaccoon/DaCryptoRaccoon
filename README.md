@@ -17,6 +17,7 @@ Hey there, I'm Raccoon - the Blockchain Warrior from the OG years. I code faster
 ## 🛠️ Languages & Tools
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
@@ -25,7 +26,6 @@ Hey there, I'm Raccoon - the Blockchain Warrior from the OG years. I code faster
   <img src="https://github.com/spothq/cryptocurrency-icons/blob/master/32%402x/color/btc%402x.png" alt="Bitcoin" width="40" height="40"/>
   <img src="https://github.com/spothq/cryptocurrency-icons/blob/master/32%402x/color/eth%402x.png" alt="Ethereum" width="40" height="40"/>
   <img src="https://github.com/spothq/cryptocurrency-icons/blob/master/32%402x/color/icp%402x.png" alt="ICP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
