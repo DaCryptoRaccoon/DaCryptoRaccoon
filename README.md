@@ -80,4 +80,4 @@ Hey there, I'm Raccoon - the Blockchain Warrior from the OG years. I code faster
 ## 📫 Connect with Me
 
 - Twitter [![Twitter Badge](https://img.shields.io/twitter/follow/DaCryptoRaccoon?style=social)](https://twitter.com/DaCryptoRaccoon)
-- Discord: [Join the Raccoon Den](https://discord.gg/9qVYajHsd2)
+
