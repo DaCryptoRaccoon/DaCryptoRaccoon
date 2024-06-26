@@ -39,7 +39,6 @@ Hey there, I'm Raccoon - the Blockchain Warrior from the OG years. I code faster
 - 💬 Ask me about Raccoon questions
 - 📫 How to reach me:
   - Twitter [![Twitter Badge](https://img.shields.io/twitter/follow/DaCryptoRaccoon?style=social)](https://twitter.com/DaCryptoRaccoon)
-  - Discord: [Join the Raccoon Den](https://discord.gg/9qVYajHsd2)
 - ⚡ Fun fact: Raccoons are highly intelligent and resourceful animals. They are known for their ability to solve problems and even remember the solutions for up to three years. Raccoons have excellent memories and can remember the solution to tasks they've encountered before, making them quite clever and adaptable creatures in the wild.
 
 ## 🛠️ What Raccoon Can Use!
